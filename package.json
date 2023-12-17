@@ -17,6 +17,7 @@
   "dependencies": {
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
+    "electron-to-chromium": "^1.4.614",
     "express": "^4.18.2",
     "mongoose": "^8.0.3",
     "mongoose-paginate-v2": "^1.7.4",
