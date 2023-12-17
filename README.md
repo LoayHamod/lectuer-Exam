@@ -1,1 +1,1 @@
-# lectuer-Exam
+# Lecture-and-Exam
