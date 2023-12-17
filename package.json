@@ -4,20 +4,14 @@
   "description": "Node.js Restful CRUD API with Node.js, Express and MongoDB",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodenm server.js"
   },
-  "keywords": [
-    "node.js",
-    "express",
-    "rest",
-    "api"
-  ],
   "author": "AOL",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
-    "electron-to-chromium": "^1.4.614",
     "express": "^4.18.2",
     "mongoose": "^8.0.3",
     "mongoose-paginate-v2": "^1.7.4",
